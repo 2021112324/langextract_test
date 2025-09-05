@@ -1,0 +1,12 @@
+
+tpython:S3776é"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(¹÷Êý8ÚÉó‹Ž3
+\python:S5754 "<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÚÉó‹Ž3
+ipython:S3358¯"IExtract this nested conditional expression into an independent statement.(›˜’Î8ÛÉó‹Ž3
+ipython:S3358²"IExtract this nested conditional expression into an independent statement.(íƒ®Û8ÛÉó‹Ž3
+npython:S3358·"IExtract this nested conditional expression into an independent statement.(©šØ¶úÿÿÿÿ8ÛÉó‹Ž3
+tpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 70 to the 15 allowed.(Î´ýÅ8ÛÉó‹Ž3
+\python:S5754„"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ÛÉó‹Ž3
+ipython:S3358“"IExtract this nested conditional expression into an independent statement.(›˜’Î8ÛÉó‹Ž3
+npython:S3358˜"IExtract this nested conditional expression into an independent statement.(©šØ¶úÿÿÿÿ8ÛÉó‹Ž3
+Ppython:S5806¥"+Rename this variable; it shadows a builtin.(ìç¾Ôûÿÿÿÿ8ÛÉó‹Ž3
+Ypython:S1135¾"4Complete the task associated to this "TODO" comment.( ÈÆ·þÿÿÿÿ8ÛÉó‹Ž3
